@@ -1,0 +1,515 @@
+family,genus,species_common_name,name_for_analysis,Fruit ID,1.5 or 0.5,height mm,depth mm,width mm,volume,kgmm2,wet.weight.grams
+UK,NA,Blueberry,UK sp 1.,7,0.5,7,7,8,205.2512,0.070210828,0.33
+UK,NA,Blueberry,UK sp 1.,7,0.5,6,7,7,153.9384,0.052658121,0.26
+UK,NA,Blueberry,UK sp 1.,7,0.5,6,8,8,201.0624,0.052658121,0.27
+UK,NA,Blueberry,UK sp 1.,7,0.5,7,7,7,179.5948,0.035105414,0.24
+UK,NA,Blueberry,UK sp 1.,7,0.5,7,7,7,179.5948,0.017552707,0.25
+UK,NA,Blueberry,UK sp 1.,7,0.5,7,7,6,153.9384,0.035105414,0.24
+UK,NA,Blueberry,UK sp 1.,7,0.5,6,7,7,153.9384,0.035105414,0.28
+UK,NA,Blueberry,UK sp 1.,7,0.5,5,4,4,41.888,0.017552707,0.27
+UK,NA,Blueberry,UK sp 1.,7,0.5,5,4,5,52.36,0.070210828,0.19
+UK,NA,Blueberry,UK sp 1.,7,0.5,7,7,7,179.5948,0.052658121,0.23
+UK,NA,Fofona_ratsy,UK sp 2,14,1.5,41,38,36,29367.6768,5.265812102,30.38
+UK,NA,Fofona_ratsy,UK sp 2,14,1.5,47,46,45,50941.044,3.071723726,48.89
+UK,NA,Fofona_ratsy,UK sp 2,14,1.5,33,32,32,17693.4912,1.965903185,17.74
+UK,NA,Fofona_ratsy,UK sp 2,14,1.5,35,33,33,19957.014,1.895692357,19.35
+UK,NA,Fofona_ratsy,UK sp 2,14,1.5,33,32,32,17693.4912,2.773327707,16.82
+UK,NA,Jellybean,UK sp 3,22,0.5,8,8,8,268.0832,0.070210828,0.43
+UK,NA,Jellybean,UK sp 3,22,0.5,8,8,8,268.0832,0.017552707,0.34
+UK,NA,Jellybean,UK sp 3,22,0.5,8,8,8,268.0832,0.368606847,0.49
+UK,NA,Jellybean,UK sp 3,22,0.5,8,8,7,234.5728,0.368606847,0.4
+UK,NA,Jellybean,UK sp 3,22,0.5,8,8,8,268.0832,0.386159554,0.45
+UK,NA,Kabokala,UK sp 4,23,1.5,61,54,49,84512.1816,3.879148248,80.4
+UK,NA,Kabokala,UK sp 4,23,1.5,54,47,44,58471.4592,3.896700955,57.28
+UK,NA,Kabokala,UK sp 4,23,1.5,51,45,42,50469.804,3.387672452,50.19
+UK,NA,Kabokala,UK sp 4,23,1.5,55,50,43,61915.7,3.791384713,47.97
+UK,NA,Kabokala,UK sp 4,23,1.5,50,44,42,48380.64,3.721173885,64.96
+UK,NA,Kililo,UK sp 5,24,0.5,23,22,22,5828.7152,0.52658121,6.35
+UK,NA,Kililo,UK sp 5,24,0.5,21,21,21,4849.0596,0.35105414,4.96
+UK,NA,Kililo,UK sp 5,24,0.5,22,21,21,5079.9672,0.263290605,5.23
+UK,NA,Kililo,UK sp 5,24,0.5,22,22,22,5575.2928,0.70210828,6.07
+UK,NA,Kililo,UK sp 5,24,0.5,21,20,20,4398.24,0.667002866,4.96
+UK,NA,Lamoty,UK sp 6,25,0.5,18,17,17,2723.7672,0.140421656,3.26
+UK,NA,Lamoty,UK sp 6,25,0.5,18,17,15,2403.324,0.087763535,3.05
+UK,NA,Lamoty,UK sp 6,25,0.5,19,18,16,2865.1392,0.070210828,3.61
+UK,NA,Lamoty,UK sp 6,25,0.5,19,19,17,3213.3332,0.070210828,4.05
+UK,NA,Lamoty,UK sp 6,25,0.5,18,17,17,2723.7672,0.087763535,3.11
+UK,NA,Little_green_guy,UK sp 7,27,0.5,7,5,5,91.63,0.614344745,0.11
+UK,NA,Little_green_guy,UK sp 7,27,0.5,7,5,5,91.63,0.35105414,0.1
+UK,NA,Little_green_guy,UK sp 7,27,0.5,7,6,6,131.9472,0.17552707,0.11
+UK,NA,Little_green_guy,UK sp 7,27,0.5,6.5,6,5,102.102,0.315948726,0.13
+UK,NA,Little_green_guy,UK sp 7,27,0.5,7,6,6,131.9472,0.386159554,0.11
+UK,NA,Little_green_guy,UK sp 7,27,0.5,6,5.5,5,86.394,0.263290605,0.12
+UK,NA,Little_green_guy,UK sp 7,27,0.5,6.5,5.5,5.5,102.95285,0.315948726,0.13
+UK,NA,Little_green_guy,UK sp 7,27,0.5,6,5.5,5.5,95.0334,0.315948726,0.12
+UK,NA,Little_green_guy,UK sp 7,27,0.5,6,5.5,5.5,95.0334,0.210632484,0.14
+UK,NA,Little_green_guy,UK sp 7,27,0.5,6,5.5,5.5,95.0334,0.245737898,0.13
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,12,10,9,565.488,0.001755271,0.78
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,10,10,10,523.6,0.001755271,0.72
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,10,9,8,376.992,0.001755271,0.45
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,8,8,8,268.0832,0.008776354,0.36
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,12,11,9,622.0368,0.005265812,0.9
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,8,8,7,234.5728,0.003510541,0.45
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,10,10,10,523.6,0.005265812,0.52
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,8,7,7,205.2512,0.010531624,0.43
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,8,8,9,301.5936,0.005265812,0.43
+Rubiaceae,NA,Looks_like_Mapouria,Mapouria sp,28,0.5,7,8,8,234.5728,0.001755271,0.29
+Meliaceae,NA,Looks_like_astero,Asterotrichilia sp. 3,29,1.5,33,28,26,12578.9664,1.685059873,15.43
+Meliaceae,NA,Looks_like_astero,Asterotrichilia sp. 3,29,1.5,32,27,25,11309.76,1.720165287,14.52
+Meliaceae,NA,Looks_like_astero,Asterotrichilia sp. 3,29,1.5,32,26,27,11762.1504,1.123373248,13.94
+Meliaceae,NA,Looks_like_astero,Asterotrichilia sp. 3,29,1.5,33,28,27,13062.7728,1.614849045,15.58
+Meliaceae,NA,Looks_like_astero,Asterotrichilia sp. 3,29,1.5,33,29,28,14030.3856,1.720165287,16.03
+UK,NA,Matambelona,UK sp 8,31,0.5,9,8,7,263.8944,0.263290605,0.3
+UK,NA,Matambelona,UK sp 8,31,0.5,9,7.5,7,247.401,0.315948726,0.28
+UK,NA,Matambelona,UK sp 8,31,0.5,9,7,7,230.9076,0.298396019,0.31
+UK,NA,Matambelona,UK sp 8,31,0.5,9,7,6,197.9208,0.263290605,0.22
+UK,NA,Matambelona,UK sp 8,31,0.5,9,8,7,263.8944,0.263290605,0.32
+UK,NA,Matambelona,UK sp 8,31,0.5,9,7,7,230.9076,0.315948726,0.24
+UK,NA,Matambelona,UK sp 8,31,0.5,9.5,8,7,278.5552,0.263290605,0.29
+UK,NA,Matambelona,UK sp 8,31,0.5,9,8,7,263.8944,0.228185191,0.31
+UK,NA,Matambelona,UK sp 8,31,0.5,9,7,6,197.9208,0.263290605,0.24
+UK,NA,Matambelona,UK sp 8,31,0.5,9,7,7,230.9076,0.333501433,0.24
+Anacardiaceae,NA,Sakoala,Poupartia silvatica ,38,1,45,23,22,11922.372,0.263290605,12.16
+Anacardiaceae,NA,Sakoala,Poupartia silvatica ,38,1,43,22,22,10897.1632,0.210632484,11.42
+Anacardiaceae,NA,Sakoala,Poupartia silvatica ,38,1,44,22,22,11150.5856,0.228185191,11.38
+Anacardiaceae,NA,Sakoala,Poupartia silvatica ,38,1,46,23,23,12741.2824,0.315948726,13.46
+Anacardiaceae,NA,Sakoala,Poupartia silvatica ,38,1,36,21,21,8312.6736,0.210632484,8.31
+UK,NA,Strawberry,UK sp 9,41,0.5,6,9,9,254.4696,0.210632484,0.28
+UK,NA,Strawberry,UK sp 9,41,0.5,6,9,9,254.4696,0.193079777,0.33
+UK,NA,Strawberry,UK sp 9,41,0.5,7,9,9,296.8812,0.122868949,0.4
+UK,NA,Strawberry,UK sp 9,41,0.5,5,7,7,128.282,0.157974363,0.35
+UK,NA,Strawberry,UK sp 9,41,0.5,6,9,9,254.4696,0.087763535,0.3
+UK,NA,UK_Liana_1,UK sp 10,52,0.5,13,8,8,435.6352,0.438817675,0.6
+UK,NA,UK_Liana_1,UK sp 10,52,0.5,15,10,10,785.4,0.649450159,0.8
+UK,NA,UK_Liana_1,UK sp 10,52,0.5,14,8,8,469.1456,0.561686624,0.6
+UK,NA,UK_Liana_1,UK sp 10,52,0.5,11,8,8,368.6144,0.333501433,0.5
+UK,NA,UK_Liana_1,UK sp 10,52,0.5,12,7,7,307.8768,0.35105414,0.3
+UK,NA,UK_Liana_4,UK sp 12,54,1,19,9,9,805.8204,0.52658121,0.66
+UK,NA,UK_Liana_4,UK sp 12,54,1,14,8,8,469.1456,0.473923089,0.63
+UK,NA,UK_Liana_4,UK sp 12,54,1,14,8,8.5,498.4672,0.544133917,1.64
+UK,NA,UK_Liana_4,UK sp 12,54,1,15,8,8,502.656,0.421264968,0.5
+UK,NA,UK_Liana_4,UK sp 12,54,1,14,8,8,469.1456,0.438817675,0.6
+UK,NA,UK_Liana_4,UK sp 12,54,1,16,9,9,678.5856,0.456370382,0.67
+UK,NA,UK_Liana_2,UK sp 13,55,0.5,18,15,14,1979.208,1.22868949,2.7
+UK,NA,UK_Liana_2,UK sp 13,55,0.5,17,15,14,1869.252,0.947846178,2.4
+UK,NA,UK_Liana_2,UK sp 13,55,0.5,19,16,16,2546.7904,0.912740764,2.8
+UK,NA,UK_Liana_2,UK sp 13,55,0.5,17,16,15,2136.288,0.70210828,2.4
+UK,NA,UK_Liana_2,UK sp 13,55,0.5,17,16,15,2136.288,0.789871815,2.4
+Euphorbiaceae,Antidesma,Antidesma_petiolare,Antidesma petiolare,1,0.5,5,5,5,65.45,0.35105414,0.08
+Euphorbiaceae,Antidesma,Antidesma_petiolare,Antidesma petiolare,1,0.5,5,5,5,65.45,0.263290605,0.09
+Euphorbiaceae,Antidesma,Antidesma_petiolare,Antidesma petiolare,1,0.5,5,5,5,65.45,0.210632484,0.08
+Euphorbiaceae,Antidesma,Antidesma_petiolare,Antidesma petiolare,1,0.5,5,5,4,52.36,0.193079777,0.1
+Euphorbiaceae,Antidesma,Antidesma_petiolare,Antidesma petiolare,1,0.5,5,5,5,65.45,0.17552707,0.1
+Meliaceae,Asterotrichilia,Asterotrichilia_asterotricha,Asterotrichilia sp. 1,2,1.25,30,28,27,11875.248,0.333501433,10.83
+Meliaceae,Asterotrichilia,Asterotrichilia_asterotricha,Asterotrichilia sp. 1,2,1.25,27,27,26,9924.3144,0.667002866,9.6
+Meliaceae,Asterotrichilia,Asterotrichilia_asterotricha,Asterotrichilia sp. 1,2,1.25,28,26,26,9910.7008,0.754766401,9.73
+Meliaceae,Asterotrichilia,Asterotrichilia_asterotricha,Asterotrichilia sp. 1,2,1.25,29,27,26,10659.4488,0.70210828,10.47
+Meliaceae,Asterotrichilia,Asterotrichilia_asterotricha,Asterotrichilia sp. 1,2,1.25,27,25,25,8835.75,0.579239331,8.97
+Meliaceae,Asterotrichilia,Asterotrichilia_marina,Asterotrichilia sp. 2,3,1.5,19,19,17,3213.3332,1.930797771,3.86
+Meliaceae,Asterotrichilia,Asterotrichilia_marina,Asterotrichilia sp. 2,3,1.5,18,17.5,17.5,2886.345,1.790376115,3.65
+Meliaceae,Asterotrichilia,Asterotrichilia_marina,Asterotrichilia sp. 2,3,1.5,19,19,17.5,3307.843,1.755270701,3.98
+Meliaceae,Asterotrichilia,Asterotrichilia_marina,Asterotrichilia sp. 2,3,1.5,19,19,17,3213.3332,1.930797771,3.59
+Meliaceae,Asterotrichilia,Asterotrichilia_marina,Asterotrichilia sp. 2,3,1.5,18,18,18,3053.6352,2.018561306,3.46
+Fabaceae,Badouinia,Badouinia_fluggeiformis,Badouinia fluggeiformis,4,0.5,13,12,10,816.816,1.755270701,0.72
+Fabaceae,Badouinia,Badouinia_fluggeiformis,Badouinia fluggeiformis,4,0.5,14,12,10,879.648,2.457378981,0.87
+Fabaceae,Badouinia,Badouinia_fluggeiformis,Badouinia fluggeiformis,4,0.5,15,12,10,942.48,3.335014331,0.95
+Fabaceae,Badouinia,Badouinia_fluggeiformis,Badouinia fluggeiformis,4,0.5,14,12,11,967.6128,2.983960191,0.8
+Fabaceae,Badouinia,Badouinia_fluggeiformis,Badouinia fluggeiformis,4,0.5,15,11,11,950.334,2.632906051,0.87
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,12,11,11,760.2672,0.087763535,1.29
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,12,11,11,760.2672,0.140421656,0.97
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,14,11,11,886.9784,0.157974363,1.32
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,13,12,11,898.4976,0.157974363,1.58
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,16,13,11,1197.9968,0.105316242,1.28
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,14,14,10,1026.256,0.087763535,1.38
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,15,13,10,1021.02,0.140421656,1.1
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,14,11,10,806.344,0.140421656,1
+Fabaceae,Badouinia,Badouinia_sp,Badouinia sp.,5,0.5,12,12,9,678.5856,0.122868949,0.97
+Rhamnaceae,Berchemia,Berchemia_discolor,Berchemia discolor,6,0.5,22,15,14,2419.032,1.263794904,2.53
+Rhamnaceae,Berchemia,Berchemia_discolor,Berchemia discolor,6,0.5,21,14,14,2155.1376,1.421769268,2.4
+Rhamnaceae,Berchemia,Berchemia_discolor,Berchemia discolor,6,0.5,19,14,13,1810.6088,1.088267834,2.08
+Rhamnaceae,Berchemia,Berchemia_discolor,Berchemia discolor,6,0.5,20,14,13,1905.904,1.088267834,2.02
+Rhamnaceae,Berchemia,Berchemia_discolor,Berchemia discolor,6,0.5,20,13,12,1633.632,1.404216561,2.11
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.140421656,0.22
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.210632484,0.19
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.105316242,0.19
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.087763535,0.19
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.087763535,0.18
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.140421656,0.18
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.122868949,0.18
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.052658121,0.19
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.17552707,0.21
+Euphorbiaceae,Bridellia,Bridellia_pervilleana,Bridellia pervilleana,8,0.5,7,6,6,131.9472,0.140421656,0.18
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,5,5,5,65.45,0.015797436,0.05
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,7,6,4,87.9648,0.007021083,0.07
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,5,5,4,52.36,0.015797436,0.04
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,5,5,5,65.45,0.005265812,0.04
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,7,5,5,91.63,0.015797436,0.1
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,7,5,4,73.304,0.014042166,0.1
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,7,5,5,91.63,0.008776354,0.07
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,6,4,4,50.2656,0.015797436,0.07
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,5,5,5,65.45,0.015797436,0.04
+Euphorbiaceae,Croton,Croton_sp_2,Croton sp 2,9,0.5,4,4,4,33.5104,0.003510541,0.04
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.140421656,0.08
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.105316242,0.06
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.263290605,0.05
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,4,4,41.888,0.193079777,0.05
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,6,5,5,78.54,0.140421656,0.08
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.17552707,0.07
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.140421656,0.06
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.087763535,0.07
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.193079777,0.06
+Euphorbiaceae,Croton,Croton_sp1,Croton sp  ,10,0.5,5,5,5,65.45,0.193079777,0.06
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,5,5,5,65.45,0.473923089,0.12
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,5,5,5,65.45,0.438817675,0.09
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,5,6,6,94.248,0.561686624,0.12
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,4,5,4,41.888,0.737213694,0.09
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,4,4,4,33.5104,0.386159554,0.07
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,5,5,6,78.54,0.52658121,0.09
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,6,5,6,94.248,0.52658121,0.07
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,5,4,4,41.888,0.473923089,0.08
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,4,4,4,33.5104,0.473923089,0.05
+Sapindaceae,Doratoxylon,Doratoxylon_chouxii,Doratoxylon chouxii,11,0.5,4,4,5,41.888,0.52658121,0.1
+Elaeocarpaceae,Elaeocarpus,Elaeocarpus_subserratus,Elaeocarpus subserratus,12,0.5,9,7,6,197.9208,0.333501433,0.35
+Elaeocarpaceae,Elaeocarpus,Elaeocarpus_subserratus,Elaeocarpus subserratus,12,0.5,8,8,6,201.0624,0.70210828,0.34
+Elaeocarpaceae,Elaeocarpus,Elaeocarpus_subserratus,Elaeocarpus subserratus,12,0.5,7,7,6,153.9384,1.211136783,0.23
+Elaeocarpaceae,Elaeocarpus,Elaeocarpus_subserratus,Elaeocarpus subserratus,12,0.5,7,7,7,179.5948,1.948350478,0.28
+Elaeocarpaceae,Elaeocarpus,Elaeocarpus_subserratus,Elaeocarpus subserratus,12,0.5,7,9,6,197.9208,0.509028503,0.29
+Rubiaceae,Empogona,Empogona_ovalifolia,Empogona ovalifolia,13,0.5,6,6,6,113.0976,0.140421656,0.12
+Rubiaceae,Empogona,Empogona_ovalifolia,Empogona ovalifolia,13,0.5,6,6,6,113.0976,0.245737898,0.16
+Rubiaceae,Empogona,Empogona_ovalifolia,Empogona ovalifolia,13,0.5,5,6,5,78.54,0.012286895,0.14
+Rubiaceae,Empogona,Empogona_ovalifolia,Empogona ovalifolia,13,0.5,6,5,5,78.54,0.193079777,0.15
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,10,8,8,335.104,0.789871815,0.36
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,8,10,8,335.104,0.667002866,0.44
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,8,7,6,175.9296,0.70210828,0.25
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,8,8,7,234.5728,0.737213694,0.24
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,9,8,9,339.2928,0.614344745,0.41
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,8,7,8,234.5728,0.561686624,0.33
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,8,7,6,175.9296,0.614344745,0.21
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,7,7,8,205.2512,0.667002866,0.21
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,7,6,6,131.9472,0.737213694,0.16
+Rubiaceae,Gaertnera,Gaertnera_sp,Gaertnera sp,15,0.5,7,6,5,109.956,0.631897452,0.19
+Clusiaceae,Garcinia,Garcinia_arenicola,Garcinia arenicola,16,0.5,22,21,20,4838.064,0.667002866,5.66
+Clusiaceae,Garcinia,Garcinia_arenicola,Garcinia arenicola,16,0.5,21,20,20,4398.24,0.509028503,5.08
+Clusiaceae,Garcinia,Garcinia_arenicola,Garcinia arenicola,16,0.5,20,19,18,3581.424,0.614344745,4.3
+Clusiaceae,Garcinia,Garcinia_arenicola,Garcinia arenicola,16,0.5,19,19,19,3591.3724,0.70210828,4.44
+Clusiaceae,Garcinia,Garcinia_arenicola,Garcinia arenicola,16,0.5,22,21,20,4838.064,0.509028503,5.33
+Rubiaceae,Gardenia,Gardenia_rutenbergiana,Gardenia rutenbergiana,17,1.5,31,26,26,10972.5616,0.157974363,12.2
+Rubiaceae,Gardenia,Gardenia_rutenbergiana,Gardenia rutenbergiana,17,1.5,31,28,27,12271.0896,0.122868949,14.5
+Rubiaceae,Gardenia,Gardenia_rutenbergiana,Gardenia rutenbergiana,17,1.5,44,35,32,25803.008,0.052658121,26
+Rubiaceae,Gardenia,Gardenia_rutenbergiana,Gardenia rutenbergiana,17,1.5,32,25,23,9634.24,0.157974363,10.9
+Rubiaceae,Gardenia,Gardenia_rutenbergiana,Gardenia rutenbergiana,17,1.5,34,26,23,10645.8352,0.140421656,11.5
+Chrysobalanaceae,Grangeria,Grangeria_sp,Grangeria sp,18,0.5,18,13,12,1470.2688,0.105316242,1.47
+Chrysobalanaceae,Grangeria,Grangeria_sp,Grangeria sp,18,0.5,19,13,12,1551.9504,0.140421656,1.54
+Chrysobalanaceae,Grangeria,Grangeria_sp,Grangeria sp,18,0.5,20,14,13,1905.904,0.140421656,1.81
+Chrysobalanaceae,Grangeria,Grangeria_sp,Grangeria sp,18,0.5,16,11,10,921.536,0.105316242,0.9
+Chrysobalanaceae,Grangeria,Grangeria_sp,Grangeria sp,18,0.5,18,13,13,1592.7912,0.140421656,1.71
+Malvaceae,Grewia,Grewia_madagascariensis,Grewia madagascariensis,19,1.5,22,17,12,2349.9168,1.281347611,2.04
+Malvaceae,Grewia,Grewia_madagascariensis,Grewia madagascariensis,19,1.5,23,18,11,2384.4744,1.720165287,1.9
+Malvaceae,Grewia,Grewia_madagascariensis,Grewia madagascariensis,19,1.5,21,16,10,1759.296,1.281347611,1.73
+Malvaceae,Grewia,Grewia_madagascariensis,Grewia madagascariensis,19,1.5,20,14,9,1319.472,0.912740764,0.95
+Malvaceae,Grewia,Grewia_madagascariensis,Grewia madagascariensis,19,1.5,22,17,11,2154.0904,0.947846178,1.69
+Malvaceae,Grewia,Grewia_sp_1,Grewia sp 1,20,1.5,15,16,16,2010.624,0.221164108,50
+Malvaceae,Grewia,Grewia_sp_1,Grewia sp 1,20,1.5,15,16,15,1884.96,0.219408838,50
+Malvaceae,Grewia,Grewia_sp_1,Grewia sp 1,20,1.5,17,17,18,2723.7672,0.259780064,50
+Malvaceae,Grewia,Grewia_sp_1,Grewia sp 1,20,1.5,15,15,14,1649.34,0.170261258,50
+Malvaceae,Grewia,Grewia_sp_1,Grewia sp 1,20,1.5,15,15,17,2002.77,0.259780064,50
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.579743631,0.34
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.562190924,0.42
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.562190924,0.35
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,8,8,8,268.0832,1.070715127,0.35
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,0.930293471,0.35
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.246242197,0.35
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,0.667002866,0.42
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.140925955,0.38
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.246242197,0.46
+Malvaceae,Grewia,Grewia_triflora,Grewia triflora,21,1.5,9,9,9,381.7044,1.579743631,0.45
+Apocynaceae,Landolphia,Landolphia_myrtifolia,Landolphia myrtifolia,26,1.5,76,51,50,101473.68,3.194592675,101.43
+Apocynaceae,Landolphia,Landolphia_myrtifolia,Landolphia myrtifolia,26,1.5,65,43,42,61465.404,4.317965924,55.2
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,9.5,10.8,9.8,526.469328,0.035105414,0.78
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,9.3,8.7,9.9,419.4083124,0.087763535,0.51
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,10.2,10.7,9.5,542.884188,0.052658121,0.67
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,9.3,9.6,8.5,397.349568,0.052658121,0.48
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,9.5,8.5,8.1,342.47367,0.087763535,0.39
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,9.6,10.2,9.7,497.3278464,0.140421656,0.7
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,9.4,9.4,11.2,518.1713152,0.017552707,0.62
+Rubiaceae,Mapouria,Mapouria_boinensis,Mapouria boinensis,30,1,10.2,9.8,9.9,518.1566544,0.035105414,0.7
+Annonaceae,Monanthotaxis,Monanthotaxis_valida,Monanthotaxis valida,32,1,16,8,8,536.1664,0.614344745,1.01
+Annonaceae,Monanthotaxis,Monanthotaxis_valida,Monanthotaxis valida,32,1,19,9,9,805.8204,0.438817675,1.07
+Annonaceae,Monanthotaxis,Monanthotaxis_valida,Monanthotaxis valida,32,1,22,9,9,933.0552,0.52658121,1.09
+Annonaceae,Monanthotaxis,Monanthotaxis_valida,Monanthotaxis valida,32,1,10,8.5,8.5,378.301,0.35105414,0.61
+Annonaceae,Monanthotaxis,Monanthotaxis_valida,Monanthotaxis valida,32,1,9,8.5,8.5,340.4709,0.403712261,0.57
+Oleaceae,Noronhia,Noronhia_sp,Noronhia sp,33,0.5,20,10,8,837.76,0.157974363,1.03
+Oleaceae,Noronhia,Noronhia_sp,Noronhia sp,33,0.5,19,10,9,895.356,0.035105414,0.98
+Oleaceae,Noronhia,Noronhia_sp,Noronhia sp,33,0.5,21,9,8,791.6832,0.087763535,0.99
+Oleaceae,Noronhia,Noronhia_sp,Noronhia sp,33,0.5,17,8,8,569.6768,0.105316242,0.8
+Oleaceae,Noronhia,Noronhia_sp,Noronhia sp,33,0.5,15,11,9,777.546,0.087763535,0.93
+Apocynaceae,Petchia,Petchia_sp,Petchia sp,34,1,15,12,11,1036.728,0.509028503,0.25
+Apocynaceae,Petchia,Petchia_sp,Petchia sp,34,1,15,12,11,1036.728,0.561686624,0.27
+Apocynaceae,Petchia,Petchia_sp,Petchia sp,34,1,15,13,10,1021.02,0.719660987,0.24
+Apocynaceae,Petchia,Petchia_sp,Petchia sp,34,1,14,12,10,879.648,0.860082643,0.26
+Apocynaceae,Petchia,Petchia_sp,Petchia sp,34,1,16,12,10,1005.312,0.895188057,0.24
+Lamiaceae,Vitex,Vitex_beraviensis,Vitex beraviensis,35,0.5,16,16,16,2144.6656,0.544133917,2.9
+Lamiaceae,Vitex,Vitex_beraviensis,Vitex beraviensis,35,0.5,16,15,15,1884.96,0.965398885,2.36
+Lamiaceae,Vitex,Vitex_beraviensis,Vitex beraviensis,35,0.5,17,17,16,2421.1264,0.70210828,2.61
+Lamiaceae,Vitex,Vitex_beraviensis,Vitex beraviensis,35,0.5,17,16,15,2136.288,1.263794904,2.68
+Lamiaceae,Vitex,Vitex_beraviensis,Vitex beraviensis,35,0.5,15,13,13,1327.326,1.000504299,1.61
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,36,1,16,13,13,1415.8144,1.334005732,1.6
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,36,1,17,14,13,1620.0184,1.421769268,1.74
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,36,1,17,15,14,1869.252,1.474427389,2.14
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,36,1,17,14,14,1744.6352,1.193584076,1.92
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,36,1,16,13,13,1415.8144,1.140925955,1.53
+Rubiaceae,Rothmania,Rothmania_renniformis,Rothmania renniformis,37,0.5,25,21,21,5772.69,0.070210828,6.82
+Rubiaceae,Rothmania,Rothmania_renniformis,Rothmania renniformis,37,0.5,20,18,17,3204.432,0.052658121,3.92
+Rubiaceae,Rothmania,Rothmania_renniformis,Rothmania renniformis,37,0.5,21,19,18,3760.4952,0.017552707,5.49
+Rubiaceae,Rothmania,Rothmania_renniformis,Rothmania renniformis,37,0.5,21,18,18,3562.5744,0.035105414,3.9
+Rubiaceae,Rothmania,Rothmania_renniformis,Rothmania renniformis,37,0.5,21,19,18,3760.4952,0.114092596,4.86
+Salvadoraceae,Salvadora,Salvadora_angustifolia,Salvadora angustifolia,39,1.5,11,9,8,414.6912,2.194088376,0.37
+Salvadoraceae,Salvadora,Salvadora_angustifolia,Salvadora angustifolia,39,1.5,10,9,9,424.116,1.263794904,0.35
+Salvadoraceae,Salvadora,Salvadora_angustifolia,Salvadora angustifolia,39,1.5,11,9,8,414.6912,1.22868949,0.33
+Salvadoraceae,Salvadora,Salvadora_angustifolia,Salvadora angustifolia,39,1.5,10,8,8,335.104,1.439321975,0.35
+Salvadoraceae,Salvadora,Salvadora_angustifolia,Salvadora angustifolia,39,1.5,10,9,9,424.116,1.509532803,0.36
+Anacardiaceae,Sorindeia,Sorindeia_madagascariensis,Sorindeia madagascariensis,40,1,29,20,19,5770.072,0.315948726,6.81
+Anacardiaceae,Sorindeia,Sorindeia_madagascariensis,Sorindeia madagascariensis,40,1,29,20,20,6073.76,0.386159554,6.81
+Anacardiaceae,Sorindeia,Sorindeia_madagascariensis,Sorindeia madagascariensis,40,1,28,19,20,5571.104,0.35105414,6.56
+Anacardiaceae,Sorindeia,Sorindeia_madagascariensis,Sorindeia madagascariensis,40,1,30,19,21,6267.492,0.315948726,6.16
+Anacardiaceae,Sorindeia,Sorindeia_madagascariensis,Sorindeia madagascariensis,40,1,29,19,19,5481.5684,0.394935908,8.37
+Anacardiaceae,Sorindeia,Sorindeia_madagascariensis,Sorindeia madagascariensis,40,1,32,22,23,8478.1312,0.315948726,6.53
+Loganiaceae,Strychnos,Strychnos_decussata,Strychnos decussata,42,1,25,21,21,5772.69,3.721173885,6.18
+Loganiaceae,Strychnos,Strychnos_decussata,Strychnos decussata,42,1,24,21,20,5277.888,3.387672452,5.43
+Loganiaceae,Strychnos,Strychnos_decussata,Strychnos decussata,42,1,23,21,20,5057.976,2.896196656,4.38
+Loganiaceae,Strychnos,Strychnos_decussata,Strychnos decussata,42,1,26,21,21,6003.5976,3.089276433,6.72
+Loganiaceae,Strychnos,Strychnos_decussata,Strychnos decussata,42,1,21,20,20,4398.24,3.019065605,4.01
+Loganiaceae,Strychnos,Strychnos_decussata,Strychnos decussata,42,1,21,20,20,4398.24,2.720669586,3.97
+Loganiaceae,Strychnos,Strychnos_madagascariensis,Strychnos madagascariensis,43,1.5,34,33,32,18799.3344,5.529102707,22.62
+Loganiaceae,Strychnos,Strychnos_madagascariensis,Strychnos madagascariensis,43,1.5,37,34,33,21736.7304,6.143447452,25.29
+Loganiaceae,Strychnos,Strychnos_madagascariensis,Strychnos madagascariensis,43,1.5,37,36,39,27199.9728,6.56471242,30.22
+Loganiaceae,Strychnos,Strychnos_madagascariensis,Strychnos madagascariensis,43,1.5,30,27,30,12723.48,4.072228025,15.44
+Loganiaceae,Strychnos,Strychnos_madagascariensis,Strychnos madagascariensis,43,1.5,31,33,32,17140.5696,3.45788328,19.56
+Loganiaceae,Strychnos,Strychnos_sp,Strychnos sp,44,0.5,24,23,24,6936.6528,0.965398885,7.82
+Loganiaceae,Strychnos,Strychnos_sp,Strychnos sp,44,0.5,27,24,24,8143.0272,0.87763535,8.78
+Loganiaceae,Strychnos,Strychnos_sp,Strychnos sp,44,0.5,20,19,19,3780.392,0.965398885,4.32
+Loganiaceae,Strychnos,Strychnos_sp,Strychnos sp,44,0.5,19,18,18,3223.2816,0.87763535,3.79
+Loganiaceae,Strychnos,Strychnos_sp,Strychnos sp,44,0.5,20,19,19,3780.392,0.965398885,4.46
+Loganiaceae,Strychnos,Strychnos_myrtoides,Strychnos myrtoides,45,0.5,11,11,10,633.556,0.157974363,0.74
+Loganiaceae,Strychnos,Strychnos_myrtoides,Strychnos myrtoides,45,0.5,11,10,10,575.96,0.140421656,0.74
+Loganiaceae,Strychnos,Strychnos_myrtoides,Strychnos myrtoides,45,0.5,11,11,10,633.556,0.140421656,0.76
+Loganiaceae,Strychnos,Strychnos_myrtoides,Strychnos myrtoides,45,0.5,11,10,10,575.96,0.193079777,0.66
+Loganiaceae,Strychnos,Strychnos_myrtoides,Strychnos myrtoides,45,0.5,11,9,9,466.5276,0.157974363,0.48
+Apocynaceae,Tabernaemontana,Tabernaemontana_coffeoides,Tabernaemontana coffeoides,47,1,32,23,22,8478.1312,0.754766401,6.23
+Apocynaceae,Tabernaemontana,Tabernaemontana_coffeoides,Tabernaemontana coffeoides,47,1,31,25,23,9333.17,0.87763535,6.43
+Apocynaceae,Tabernaemontana,Tabernaemontana_coffeoides,Tabernaemontana coffeoides,47,1,30,26,22,8984.976,0.70210828,6.61
+Apocynaceae,Tabernaemontana,Tabernaemontana_coffeoides,Tabernaemontana coffeoides,47,1,31,26,22,9284.4752,0.561686624,6.55
+Apocynaceae,Tabernaemontana,Tabernaemontana_coffeoides,Tabernaemontana coffeoides,47,1,27,25,21,7422.03,0.561686624,5.96
+Combretaceae,Terminalia,Terminalia_tropophylla,Terminalia tropophylla,48,0.5,9,6,5,141.372,1.491980096,0.12
+Combretaceae,Terminalia,Terminalia_tropophylla,Terminalia tropophylla,48,0.5,10,6,5,157.08,1.755270701,0.18
+Combretaceae,Terminalia,Terminalia_tropophylla,Terminalia tropophylla,48,0.5,9,6,5,141.372,1.544638217,0.15
+Combretaceae,Terminalia,Terminalia_tropophylla,Terminalia tropophylla,48,0.5,10,5,5,130.9,1.579743631,0.12
+Combretaceae,Terminalia,Terminalia_tropophylla,Terminalia tropophylla,48,0.5,9,5,5,117.81,1.737717994,0.09
+Rubiaceae,Tricalysia,Tricalysia_majungensis,Tricalysia majungensis,49,0.5,15,9,9,636.174,1.263794904,0.68
+Rubiaceae,Tricalysia,Tricalysia_majungensis,Tricalysia majungensis,49,0.5,15,10,9,706.86,1.070715127,0.84
+Rubiaceae,Tricalysia,Tricalysia_majungensis,Tricalysia majungensis,49,0.5,15,8,8,502.656,1.088267834,0.51
+Rubiaceae,Tricalysia,Tricalysia_majungensis,Tricalysia majungensis,49,0.5,17,9,9,720.9972,0.930293471,0.81
+Rubiaceae,Tricalysia,Tricalysia_majungensis,Tricalysia majungensis,49,0.5,17,9,9,720.9972,1.070715127,0.87
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7.5,7,7,192.423,0.105316242,0.26
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7,7,7,179.5948,0.035105414,0.33
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7.5,7.5,7,206.1675,0.035105414,0.32
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7.9,7.9,7.9,258.1552204,0.052658121,0.29
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,8,8.5,9,320.4432,0.043881768,0.3
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7,7.5,7.5,206.1675,0.035105414,0.25
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,8,8.5,8.5,302.6408,0.035105414,0.22
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7,8,8,234.5728,0.035105414,0.39
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7,7,7.2,184.72608,0.017552707,0.33
+Rubiaceae,Tricalysia,Tricalysia_perrieri,Tricalysia perrieri,50,0.5,7.5,8.5,9,300.4155,0.017552707,0.27
+Olacaceae,Olax,Olax_madagascariensis,Olax madagascariensis,51,1,14,14,13,1334.1328,0.35105414,1.26
+Olacaceae,Olax,Olax_madagascariensis,Olax madagascariensis,51,1,14,14,13,1334.1328,0.438817675,1.41
+Olacaceae,Olax,Olax_madagascariensis,Olax madagascariensis,51,1,15,14,14,1539.384,0.263290605,1.64
+Olacaceae,Olax,Olax_madagascariensis,Olax madagascariensis,51,1,14,13,13,1238.8376,0.210632484,1.27
+Olacaceae,Olax,Olax_madagascariensis,Olax madagascariensis,51,1,14,13,13,1238.8376,0.210632484,1.26
+Lamiaceae,Vitex,Vitex_perrieri,Vitex perrieri,56,0.5,16,12,13,1306.9056,1.667507166,1.42
+Lamiaceae,Vitex,Vitex_perrieri,Vitex perrieri,56,0.5,14,12,12,1055.5776,1.755270701,1.1
+Lamiaceae,Vitex,Vitex_perrieri,Vitex perrieri,56,0.5,17,12,12,1281.7728,1.404216561,1.34
+Lamiaceae,Vitex,Vitex_perrieri,Vitex perrieri,56,0.5,14,12,12,1055.5776,1.579743631,1.1
+Lamiaceae,Vitex,Vitex_perrieri,Vitex perrieri,56,0.5,16,12,12,1206.3744,1.843034236,1.31
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,57,1,16,16,16,2144.6656,0.544133917,2.9
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,57,1,16,15,15,1884.96,0.965398885,2.36
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,57,1,17,17,16,2421.1264,0.70210828,2.61
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,57,1,17,16,15,2136.288,1.263794904,2.68
+Lamiaceae,Vitex,Vitex_sp,Vitex sp,57,1,15,13,13,1327.326,1.000504299,1.61
+Oleaceae,Ximenia,Ximenia_caffra,Ximenia caffra,58,0.5,18.5,14,14,1898.5736,0.631897452,1
+Oleaceae,Ximenia,Ximenia_caffra,Ximenia caffra,58,0.5,21,16,16,2814.8736,0.614344745,2.93
+Oleaceae,Ximenia,Ximenia_caffra,Ximenia caffra,58,0.5,19,15,14,2089.164,0.684555573,2.02
+Oleaceae,Ximenia,Ximenia_caffra,Ximenia caffra,58,0.5,18,14,14,1847.2608,0.35105414,1.09
+Oleaceae,Ximenia,Ximenia_caffra,Ximenia caffra,58,0.5,17,12.5,12.5,1390.8125,0.561686624,0.83
+Rhamnaceae,Ziziphus,Ziziphus_sp,Ziziphus sp,59,1,23,23,24,6647.6256,1.193584076,6.96
+Rhamnaceae,Ziziphus,Ziziphus_sp,Ziziphus sp,59,1,21,21,22,5079.9672,0.684555573,5.2
+Rhamnaceae,Ziziphus,Ziziphus_sp,Ziziphus sp,59,1,20,20,20,4188.8,0.965398885,4.32
+Rhamnaceae,Ziziphus,Ziziphus_sp,Ziziphus sp,59,1,24,26,26,8494.8864,1.369111146,8.59
+Rhamnaceae,Ziziphus,Ziziphus_sp,Ziziphus sp,59,1,24,24,23,6936.6528,1.579743631,7.62
+Rubiaceae,Chassalia,Chassalia_ternifolia,Voanananala,,0.5,3.95,3.85,3.85,30.65619095,0.053122741,0.05
+Rubiaceae,Chassalia,Chassalia_ternifolia,Voanananala,,0.5,4.34,4.22,4.22,40.46823556,0.039462608,0.0532
+Rubiaceae,Chassalia,Chassalia_ternifolia,Voanananala,,0.5,3.975,4.225,4.225,37.15268432,0.032885506,0.05625
+Rubiaceae,Chassalia,Chassalia_ternifolia,Voanananala,,0.5,3.5,3.2,3.2,18.765824,0.025296543,0.0375
+Rubiaceae,Chassalia,Chassalia_ternifolia,Voanananala,,0.5,3.625,3.5,3.5,23.2511125,0.034150334,0.0325
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,6.8,5.914,6.8,143.1854153,0.007083032,0.16978
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,5.84,5.1775,5.84,92.45820116,0.015177926,0.11045
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,6.12,5.04,6.12,98.84006415,0.074877769,0.11008
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,6.443333333,5.945,6.443333333,129.2327826,0.004216091,0.125283333
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,5.991428571,5.431428571,5.991428571,102.0879499,0.010118617,0.097671429
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,7.247142857,6.414285714,6.414285714,156.1216247,0.002168275,0.171428571
+Melastomataceae,Clidemia,Clidemia_hirta,Clidemia,,0.5,6.65,6.075,6.075,128.5031719,0.01770758,0.1525
+Rubiaceae,Coptosperma,Coptosperma_sp1,Fatsikahirta LG,,1.5,20,15.375,10.8,1738.8756,0.037944815,1.985
+Rubiaceae,Coptosperma,Coptosperma_sp1,Fatsikahirta LG,,1.5,23.76666667,19.33333333,12.06666667,2903.099813,0.030355852,3.47
+Rubiaceae,Coptosperma,Coptosperma_sp1,Fatsikahitra lg,,1.5,20.72,15.46,11.34,1902.006221,0.02934399,2.388
+Rubiaceae,Coptosperma,Coptosperma_sp1,Fatsikahitra lg,,1.5,16.36666667,15.2,9.9,1289.551402,0.067457449,1.95
+Rubiaceae,Coptosperma,Coptosperma_sp1,Fatsikahitra lg,,1.5,18.14,13.78,11.12,1455.428669,0.04654564,1.79
+Rubiaceae,Coptosperma,Coptosperma_sp1,Fatsikahitra lg,,1.5,16.65,14.6,10.98333333,1397.979798,0.010118617,1.73
+Myrtaceae,Eugenia,Eugenia_sp1,Rojabo,,1.25,22,33.7,21.25,8249.1871,0.068300667,6.485
+Myrtaceae,Eugenia,Eugenia_sp1,Rojabo,,1.25,25.6,40.5,24.7,13408.85146,0.111304791,16.19
+Moraceae,Ficus,Ficus_botryoides,Voararano,,1.5,30.4,39.83,30.4,19273.34571,0.161897878,24.46375
+Moraceae,Ficus,Ficus_botryoides,Voararano,,1.5,34.7,42.43333333,42.43333333,32714.73528,0.072516758,30.14333333
+Moraceae,Ficus,Ficus_botryoides,Voarararano,,1.5,35.05,38.5,38.5,27202.51881,0.118893754,24.01
+Moraceae,Ficus,Ficus_botryoides,Voarararano,,1.5,35.4,36.95,36.95,25306.48257,0.121423409,19.44
+Moraceae,Ficus,Ficus_lutea,Amonatana,,1.25,14.13333333,16.93333333,16.93333333,2121.920725,0.047220214,2.206666667
+Moraceae,Ficus,Ficus_lutea,Amonatana,,1.25,15.58333333,16,16,2088.814933,0.03119907,2.276666667
+Moraceae,Ficus,Ficus_lutea,Amontana,,1,18.67333333,18.49,18.77666667,3394.508459,0.047220214,4.061066667
+Moraceae,Ficus,Ficus_reflexa,Nonoka,,1,7.822,7.358,7.822,235.7192467,0.005059309,0.22534
+Moraceae,Ficus,Ficus_tiliifolia,Voara,,1.5,30.6,35.67,30.6,17488.21968,0.063241359,19.3999
+Moraceae,Ficus,Ficus_tiliifolia,Voara,,1.5,25.425,25.125,25.125,8403.742571,0.127747544,7.92
+Moraceae,Ficus,Ficus_tiliifolia,Voara,,1.5,26.9075,34.655,34.67333333,16929.12395,0.07588963,16.95
+Moraceae,Ficus,Ficus_tiliifolia,Voara,,1.5,28.1,34.8,34.8,17818.22529,0.05818205,16.385
+Moraceae,Ficus,Ficus_tiliifolia,Voara,,1.5,29.19333333,26.05333333,26.05333333,10375.52105,0.092753993,9.273333333
+Moraceae,Ficus,Ficus_tiliifolia,Voara,,1.5,27,34.03333333,34.03333333,16374.66322,0.070830322,16.26
+Clusiaceae,Garcinia,Garcinia_sp1,Voamalambotaho,,1.5,37.925,31.175,28.125,17411.02025,0.077154458,15.535
+Clusiaceae,Garcinia,Garcinia_sp1,Voamalambotaho,,1.5,44.3,28.85,28.85,19306.1199,0.108775137,17.265
+Clusiaceae,Garcinia,Garcinia_sp1,Voamalambotaho,,1.5,44.66666667,35.86666667,28.23333333,23682.9803,0.072516758,20.64666667
+Clusiaceae,Garcinia,Garcinia_sp1,Voamalambotaho,,1.5,37.1,28,30,16317.4704,0.112991227,15.16666667
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,4.8,4.8,4.8,57.9059712,0.001366013,0.076666667
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,4.7375,4.6375,4.6375,53.34782356,0.220079928,0.07375
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,4.628571429,4.871428571,4.5,53.12702057,0.166957187,0.081571429
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,4.2,4.328571429,4.328571429,41.20387921,0.163584314,0.051714286
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,4.25,4.35,4.35,42.10823925,0.196469821,0.064166667
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,10.5125,5.1875,5.2625,150.2643182,0.22577165,0.089375
+Euphorbiaceae,Macaranga,Macaranga_myriolepida,Karambitona,,0.5,5.214285714,5.314285714,5.314285714,77.10530546,0.190808213,0.101428571
+Anacardiaceae,Micronychia,Micronychia_macrophylla,Sehana,,0.5,13.12142857,9.995714286,13.12571429,901.3999695,0.072998597,0.630457143
+Anacardiaceae,Micronychia,Micronychia_macrophylla,Sehana,,0.5,16.01666667,10.26666667,6.783333333,584.0424256,0.191241868,0.825
+Anacardiaceae,Micronychia,Micronychia_macrophylla,Sehana,,0.5,18.28333333,11.38333333,7.56,823.8464292,0.155995351,1.296666667
+Anacardiaceae,Micronychia,Micronychia_macrophylla,Sehana,,0.5,14.65714286,9.171428571,6.757142857,475.6078865,0.1163641,0.86
+Anacardiaceae,Micronychia,Micronychia_macrophylla,Sehana,,0.5,14.45714286,9.271428571,6.457142857,453.1783585,0.127205476,0.882857143
+Rubiaceae,Mussaenda,Mussaenda_arcuata,Anambahy,,1,19.37,7.09,19.37,1392.852457,0.027320267,0.88064
+Rubiaceae,Mussaenda,Mussaenda_arcuata,Anambahy,,1,13.95625,8.385,13.95625,855.1458366,0.052490328,0.6316125
+Rubiaceae,Mussaenda,Mussaenda_arcuata,Anambahy,,1,17.4425,7.965,17.4425,1268.828372,0.04047447,0.99
+Rubiaceae,Mussaenda,Mussaenda_arcuata,Anambahy,,1,17.975,10.1,10.125,962.4649939,0.04047447,3.4675
+Rubiaceae,Mussaenda,Mussaenda_arcuata,Anambahy,,1,15.675,9.35,9.35,717.5140492,0.050593087,0.85
+Primulaceae,Oncostemum,Oncostemum_botryoides,Kalafana,,0.5,8.785,11.09,8.785,448.1410379,0.150092824,0.556333333
+Primulaceae,Oncostemum,Oncostemum_botryoides,Kalafana,,0.5,9.3,10.375,10.375,524.1538706,0.056917223,0.725
+Primulaceae,Oncostemum,Oncostemum_botryoides,Kalafana,,0.5,8.7,13.5,13.5,830.20707,0.065771013,1.04
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,4.818,6.664,4.818,80.99686646,0.180111389,0.16802
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,4.6125,6.4975,4.6125,72.3800176,0.138287771,0.14085
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.48,7.62,7.62,166.6058087,0.182135113,0.23
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.433333333,8.016666667,8.016666667,182.8326018,0.166957187,0.253333333
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.416666667,7.45,7.45,157.4143404,0.054809177,0.455
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,4.971428571,7.728571429,7.728571429,155.4817041,0.067457449,0.211428571
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.833333333,7.828571429,7.828571429,187.1894933,0.05348412,0.212857143
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.85,7.8,7.8,186.3565704,0.092332384,0.26
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.775,8.325,8.325,209.5656558,0.055652396,0.28
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.857142857,8.3,8.3,211.271852,0.059266187,0.26
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,5.275,7.2,7.2,143.1815616,0.069565494,0.1825
+Primulaceae,Oncostemum,Oncostemum_nervosum,Kalafambakaka,,0.5,4.98,7.1,7.1,131.4454865,0.143684367,0.19
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,0.5,12.56,11.51,12.56,950.7235249,0.079262503,0.963
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,0.5,13.44,11,9.98,772.5420595,0.097138727,1.002
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,0.5,13.75,12.2,12.2,1071.57358,0.025296543,1.52
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,0.5,15.33333333,11.33333333,11.33333333,1031.220503,0.060711704,1.07
+Rubiaceae,Pyrostria,Pyrostria_sp1,Fatsi M,,1,11.13333333,9.5,7.566666667,419.0376617,0.011805054,0.59
+Rubiaceae,Pyrostria,Pyrostria_sp1,Fatsi M,,1,9.866666667,9.233333333,7.233333333,345.038127,0.010118617,0.4
+Rubiaceae,Pyrostria,Pyrostria_sp1,Fatsikahirta M,,1,13.7,10.5,9.55,719.304663,0.50087156,0.84
+Rubiaceae,Pyrostria,Pyrostria_sp1,Fatsikahirta M,,1,10.66666667,10.16666667,6.766666667,384.2215588,0.015177926,0.78
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,8.742,9.2714,8.732,370.5693413,0.216538412,0.52836
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,7.4,7.424285714,7.325714286,210.7346794,0.081671697,0.311428571
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,7.12,7.238571429,7.299714286,196.9873591,0.096126865,0.280714286
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,7.128571429,7,7.071428571,184.75974,0.104799966,0.274285714
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,7.028571429,7.414285714,7.042857143,192.1696936,0.065048255,0.267142857
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,9.142857143,9.585714286,9.585714286,439.8762684,0.059988946,0.628571429
+Myrtaceae,Syzygium,Syzygium_emirnense,Robary,,0.5,7.0375,7.7375,7.7375,220.6070412,0.039209642,0.28875
+Sapindaceae,Tina,Tina_striata,Tina,,1,15.62,13.98,13.8,1577.8544,0.19225373,1.628
+Sapindaceae,Tina,Tina_striata,Tina,,1,16.65,16.675,10.842,1576.119424,0.214514688,4.178
+Sapindaceae,Tina,Tina_striata,Tina,,1,15.44285714,16.74285714,13.01428571,1761.883548,0.216104757,1.848571429
+Sapindaceae,Allophylus,Allophylus_arboreus,dikana,,1,7.97375,6.84625,7.97375,227.9174735,0.159874155,0.2072
+Sapindaceae,Allophylus,Allophylus_arboreus,dikana,,1,8.225,6.575,8.225,232.8987772,0.161897878,0.278625
+Sapindaceae,Allophylus,Allophylus_arboreus,dikana,,1,8.35375,5.665,8.35375,206.9962608,0.17454615,0.163
+Sapindaceae,Allophylus,Allophylus_arboreus,dikana,,1,8.798333333,6.201666667,8.798333333,251.3673581,0.060079291,0.162375
+Sapindaceae,Allophylus,Allophylus_arboreus,dikana,,1,7.68125,6.06875,7.68125,187.4833416,0.05818205,0.185
+Sapindaceae,Allophylus,Allophylus_arboreus,dikana,,1,6.9125,6.2075,6.9125,155.3054351,0.090435143,0.162125
+Clusiaceae,Callophyllum ,Callophyllum_recedens,vitanona,,1,29.37,21.232,29.37,9589.554605,0.374388843,11.055
+Rubiaceae,Chassalia,Chassalia_sp,voananamboa,,1,5.8925,5.9175,5.8925,107.581374,0.039462608,0.12734
+Verbenaceae,Clerondendrum,Clerondendrum_conysoides,tsatsandroy,,1,7.4025,5.095,7.4025,146.184275,0.134704094,0.1119625
+Lauraceae,Cryptocaria,Cryptocaria_anisata,Tavolopina,,1,16.08666667,16.32666667,16.08666667,2212.22497,0.293439904,2.92
+Lauraceae,Cryptocaria,Cryptocaria_crassifolia,tavolomanitra,,1,15.5625,16.8675,15.5625,2138.991632,0.201739934,2.5965
+Lauraceae,Cryptocaria,Cryptocaria_crassifolia,tavolomanitra,,1,16.676,18.068,16.676,2630.834283,0.155152133,3.338666667
+Lauraceae,Cryptocaria,Cryptocaria_crassifolia,tavolomanitra,,1,16.3475,17.595,16.3475,2462.020139,0.215020619,3.347166667
+Lauraceae,Cryptocaria,Cryptocaria_crassifolia,tavolomanitra,,1,16.9225,19.48125,16.9225,2921.093801,0.19225373,3.012
+Lauraceae,Cryptocaria,Cryptocaria_crassifolia,tavolomanitra,,1,17.4025,21.49625,17.405,3409.16493,0.147352366,4.4825
+Lauraceae,Cryptocaria,Cryptocaria_sp,tavolo sp,,1,20.558,22.65,20.552,5010.750716,0.104077207,6.09375
+Lauraceae,Cryptocaria,Cryptocaria_sp,tavolo sp,,1,21.6475,24.75,21.6475,6072.819008,0.125470856,6.906
+Lauraceae,Cryptocaria,Cryptocaria_sp,tavolo sp,,1,20.49142857,23.16428571,20.49142857,5092.875081,0.170751668,7.285
+Lauraceae,Cryptocaria,Cryptocaria_sp,tavolo sp,,1,18.46666667,21.46666667,18.46666667,3833.021637,0.200926831,4.321428571
+Lauraceae,Cryptocaria,Cryptocaria_sp,tavolo sp,,1,14.23833333,16.32666667,14.23833333,1733.067491,0.130698808,6.255
+Rubiaceae,Danais,Danais_sp,Vahitamboro,,1,3.245,3.151666667,3.24,17.35000594,0.201529129,0.121166667
+Rubiaceae,Danais,Danais_sp,Vahitamboro,,1,5.84875,5.8775,5.84875,105.2733376,0.135758117,0.125166667
+Rubiaceae,Danais,Danais_sp,Vahitamboro,,1,5.5825,5.725,5.5825,93.41843606,0.147352366,0.095
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,10.4825,12.375,10.4825,711.9911372,0.037101597,1.105333333
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,8.558571429,10.44857143,8.558571429,400.7366959,0.031367714,0.7946
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,8.5,8.3975,8.5,317.6782648,0.058543429,0.951857143
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,8.322,7.622,8.322,276.3910688,0.077576067,0.968666667
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,8.28625,7.6875,8.28625,276.3763206,0.054809177,0.223633333
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,9.5325,10.31375,9.5325,490.7156015,0.073359976,0.52125
+Moraceae,Ficus,Ficus_politoria,famakilela,,1,9.856,11.034,9.856,561.2211213,0.043004124,0.51375
+Rubiaceae,Gaertnera,Gaertnera_brevipedicellata,ranjopody,,1,33.22,33.6,33.22,19415.03472,0.050593087,0.61552
+Clusiaceae,Garcinia,Garcinia_goudotiana,kimbaletaka,,1,33.335,33.47,33.335,19474.04948,0.391735044,4.159571429
+Primulaceae,Maesa,Maesa_anceolata,Voarafy,,1,4.06,3.744285714,4.06,32.31622967,0.010118617,0.0816875
+Primulaceae,Maesa,Maesa_anceolata,Voarafy,,1,7.814285714,7.974285714,7.814285714,254.9587978,0.037583436,0.044571429
+Primulaceae,Maesa,Maesa_anceolata,Voarafy,,1,12.45,12.748,12.45,1034.618871,0.036137919,0.054428571
+Primulaceae,Maesa,Maesa_anceolata,Voarafy,,1,3.918,3.682,3.918,29.59458712,0.028332129,0.0412
+Primulaceae,Maesa,Maesa_anceolata,Voarafy,,1,3.8825,4.4325,3.815,34.37592466,0.009106756,0.052
+Rubiaceae,Mussaenda,Mussaenda_erectiloba,fatora ,,1,28.47,11.452,28.95,4942.162402,0.298499213,2.129
+Rubiaceae,Mussaenda,Mussaenda_erectiloba,fatora ,,1,25.35875,11.4375,25.35875,3851.114485,0.28534501,2.108
+Rubiaceae,Mussaenda,Mussaenda_erectiloba,fatora,,1,23.41571429,12.83857143,23.41571429,3685.794862,0.28621232,2.3825
+Rubiaceae,Mussaenda,Mussaenda_erectiloba,fatora,,1,22.43,12.496,22.43,3291.767868,0.260193018,2.031428571
+Rubiaceae,Mussaenda,Mussaenda_erectiloba,fatora ,,1,19.62125,10.91125,19.62125,2199.51783,0.263084052,1.742
+Oleacea,Noronhia,Noronhia_incurvifolius,solaitra fotsy,,1,17.28375,14.28125,17.28375,2233.787268,0.10940755,1.036375
+Pittosporaceae,Pittosporum,Pittosporum_pachyphyllum,ambovitsika sm,,1,14.81142857,13.47142857,14.81142857,1547.416372,0.306088176,0.350125
+Pittosporaceae,Pittosporum,Pittosporum_pachyphyllum,ambovitsika sm,,1,8.494285714,7.82,8.494285714,295.4337592,0.2414013,0.304142857
+Pittosporaceae,Pittosporum,Pittosporum_pachyphyllum,ambovitsika sm,,1,8.133333333,7.208333333,8.133333333,249.6730361,0.247906126,0.334571429
+Pittosporaceae,Pittosporum,Pittosporum_pachyphyllum,ambovitsika sm,,1,7.92625,6.90875,7.91875,227.0510496,0.189724076,0.195166667
+Pittosporaceae,Pittosporum,Pittosporum_pachyphyllum,ambovitsika sm,,1,7.675,7.5675,7.675,233.4042909,0.268143361,0.335
+Araliaceae,Polyscias,Polyscias_sp,Vahimaniny,,1,8.42,8.89,8.42,330.0088463,0.235257854,1.1122
+Araliaceae,Polyscias,Polyscias_sp,Vahimaniny,,1,8.806666667,9.166666667,8.806666667,372.2495609,0.106245482,1.08
+Araliaceae,Polyscias,Polyscias_sp,vahimaniny,,1,11.6225,12.0075,11.6225,849.2808723,0.164933463,1.0896
+Araliaceae,Polyscias,Polyscias_sp,Vahimaniny,,1,11.4325,12.4675,11.4325,853.2208013,0.096126865,1.2225
+Myrtaceae,Psidium,Psidium_cattleianum,Goavy tsinahy,,1,20.3675,18.9325,20.3675,4112.283558,0.048906651,9.395666667
+Myrtaceae,Psidium,Psidium_cattleianum,Goavy tsinahy,,1,18.47285714,18.79571429,18.47285714,3358.355108,0.063747289,3.8532
+Myrtaceae,Psidium,Psidium_cattleianum,Goavy tsinahy,,1,19.222,19.934,19.214,3854.876341,0.032524127,4.451642857
+Myrtaceae,Psidium,Psidium_cattleianum,Goavy tsinahy,,1,16.745,17.2525,16.745,2532.922942,0.066782875,2.89
+Myrtaceae,Psidium,Psidium_cattleianum,Goavy tsinahy,,1,17.072,17.57,17.072,2681.267867,0.018972408,4.93
+Hypericaceae,Psorospermum,Psorospermum_androsaemifolium,fanerandahy,,1,8.85625,8.52,8.85625,349.8959921,0.037438884,0.4132
+Hypericaceae,Psorospermum,Psorospermum_androsaemifolium,fanerandahy,,1,7.78625,7.40625,7.78625,235.1011174,0.048063433,0.35975
+Hypericaceae,Psorospermum,Psorospermum_androsaemifolium,fanerandahy,,1,7.7,8.03,7.7,249.2852793,0.032253093,0.23625
+Hypericaceae,Psorospermum,Psorospermum_androsaemifolium,fanerandahy,,1,9.3325,9.09,9.3325,414.5333903,0.043004124,0.314
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,13.17,11.50625,13.17,1044.972818,0.075046412,0.734666667
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,13.82,12.636,13.82,1263.64575,0.04047447,1.492375
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,17.00142857,14.34857143,17.00142857,2171.596496,0.089043833,0.91212
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,23.656,20.596,23.656,6034.831438,0.112750308,0.718
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,23.41,21.115,23.41,6058.89674,0.087020109,0.941
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,13.69625,10.51,13.69625,1032.299467,0.032885506,0.6675
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,12.5225,11.30375,12.5225,928.1202802,0.103083415,0.949625
+Rubiaceae,Psychotria,Psychotria_sp,Fohaninasity,,1,11.81,11.5925,11.81,846.5966345,0.127747544,0.884125
+Araliaceae,Schefflera,Schefflera_sp,Vatsilambato,,1,11.015,10.0425,11.015,637.9850196,0.010751031,0.0407
+Myrtaceae,Syzygium,Syzygium_parkeri,Rotra lg,,1,16.2,14.00333333,16.2,1924.248221,0.096126865,2.176125
+Myrtaceae,Syzygium,Syzygium_parkeri,Rotra lg,,1,18.268,14.202,18.268,2481.596409,0.126482717,2.337166667
+Myrtaceae,Syzygium,Syzygium_parkeri,rotra sm,,1,12.58,11.95166667,12.56833333,989.433115,0.053628672,0.42592
+Myrtaceae,Syzygium,Syzygium_parkeri,rotra lg,,1,17.13,17.28,17.1275,2654.573259,0.094440429,2.714333333
+Myrtaceae,Syzygium,Syzygium_parkeri,Rotra sm,,1,6.28,5.02,6.28,103.6627301,0.156838569,0.52225
+Myrtaceae,Syzygium,Syzygium_parkeri,rotra sm,,1,10.88,10.9225,10.88,676.9856795,0.096126865,0.6892
+Anacardiaceae,Weinmannia,Weinmannia_rutenbergii,lalona,,1,4.9425,2.99,4.9425,38.24407685,0.135336507,0.00785
+Anacardiaceae,Weinmannia,Weinmannia_rutenbergii,lalona,,1,6.1,1.975,6.1,38.4792331,0.099288933,0.011125
+Anacardiaceae,Weinmannia,Weinmannia_rutenbergii,lalona,,1,11.62142857,9.018571429,11.62142857,637.7587439,0.1163641,0.00675
+Rutaceae,Zanthoxylum,Zanthoxylum_tsihanimposa,Fahavalonkazo,,1,7.555,5.26,7.555,157.2006435,0.126482717,0.114571429
