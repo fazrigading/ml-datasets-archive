@@ -1,4 +1,4 @@
-btr_mAh,btr_life,MHz,cores,frontcam,backcam,px_h,px_w,cm_h,cm_w,rom,ram,thick,weight,dual_sim,bt,touch,wifi,4g,3g,class
+btr_pwr,btr_life,mhz,cores,frontcam,backcam,px_h,px_w,cm_h,cm_w,rom,ram,thick,weight,dual_sim,bt,touch,wifi,4g,3g,class
 842,19,2.2,2,1,2,20,756,9,7,7,2549,0.6,188,0,0,0,1,0,0,1
 1021,7,0.5,3,0,6,905,1988,17,3,53,2631,0.7,136,1,1,1,0,1,1,2
 563,9,0.5,5,2,6,1263,1716,11,2,41,2603,0.9,145,1,1,1,0,1,1,2
